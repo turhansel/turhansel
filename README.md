@@ -3,8 +3,6 @@
 <h1>Hi there, I'm Turhan 👋</h1>
  <h3>Welcome to my Github Profile 👨🏻‍💻</h3>
 
-<font color="#8BE8CB">☕️ May i some coffee ☕️</font>
-
 ### Reach Out to me!
 
 [website]: https://turhansel.github.io/
