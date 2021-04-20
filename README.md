@@ -1,13 +1,9 @@
 <img src="https://media.giphy.com/media/SwImQhtiNA7io/source.gif" align="right" width="400" height="250">
 
-<h1>Hi there, I'm Turhan 👋</h1>
- <h3>Welcome to my Github Profile 👨🏻‍💻</h3>
+## Hi there, I'm Turhan 👋
+### Welcome to my Github Profile 👨🏻‍💻
 
 ### Reach Out to me!
-
-[website]: https://turhansel.github.io/
-[twitter]: https://twitter.com/ulanturbo
-[linkedin]: https://linkedin.com/in/turhansel
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/codersrank.svg" align="left" />][website]
@@ -34,3 +30,8 @@
 <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turhansel&langs_count=10&theme=tokyonight&layout=compact" alt="turhansel :: Top Langs" />
 </details></p>
+
+
+[website]: https://turhansel.github.io/
+[twitter]: https://twitter.com/ulanturbo
+[linkedin]: https://linkedin.com/in/turhansel
