@@ -16,7 +16,7 @@
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 
 <br/>
-<h2><font color="#8BE8CB">Tech I Use</font></h2>
+<h3 align="center"><font color="#8BE8CB">Tech I Use</font></h2>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="25" height="25" />
@@ -26,7 +26,7 @@
 
 <br />
 
-<h2 align="center">My GitHub Stats 🧟</h2>
+<h3 align="center">My GitHub Stats 🧟</h2>
 <p align="center"><details>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=turhansel&theme=tokyonight" >
