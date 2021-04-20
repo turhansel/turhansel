@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SwImQhtiNA7io/source.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/SwImQhtiNA7io/source.gif" align="right" width="400" height="270">
 
 ## Hi there, I'm Turhan 👋
 ### Welcome to my Github Profile 👨🏻‍💻
