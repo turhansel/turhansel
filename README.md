@@ -9,7 +9,7 @@
 <p align='left'>
 <h2 align='left'> Reach Out to me! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
 <a href="https://www.linkedin.com/in/turhansel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"width="90"></a>
-<a href="https://www.twitter.com/ulanturbo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="86"></a>
+<a href="https://www.twitter.com/imturhansel" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="86"></a>
 <a href="mailto:turhansel@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"width="73"  ></a>
 </p>
 </div>
