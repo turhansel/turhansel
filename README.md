@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/turhansel"><img src="https://api.daily.dev/devcards/80fbfa7ba3c14e49837329bd5c76e5fa.png?r=2oy" width="400" align="right" alt="Turhan Sel's Dev Card"/></a>
+<a href="https://app.daily.dev/turhansel"><img src="https://github.com/turhansel/turhansel/blob/master/devcard.svg" width="400" align="right" alt="Turhan Sel's Dev Card"/></a>
 
 <h1 align="left">Hi there, I'm Turhan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 
