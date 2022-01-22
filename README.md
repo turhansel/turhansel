@@ -1,6 +1,8 @@
-<img src="https://media.giphy.com/media/CTX0ivSQbI78A/source.gif" align="right" width="400" height="270">
+<a href="https://app.daily.dev/turhansel"><img src="https://api.daily.dev/devcards/80fbfa7ba3c14e49837329bd5c76e5fa.png?r=2oy" width="400" alt="Turhan Sel's Dev Card"/></a>
 
 <h1 align="left">Hi there, I'm Turhan <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
+
+
 <h2 align="left">A passionate front end developer who wants to be a part of developing technology from Turkey</h2>
 
 <h3 align="left"> Glad to see you! :rose: </h3>
