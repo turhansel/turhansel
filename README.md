@@ -2,7 +2,9 @@
 
 <h1 align="left">Hi there, I'm Turhan👾</h1>
 
-<h2 align="left">A passionate front-end developer who wants to explore new technologies and to do new things about them. Cheers! <img src = "https://media.giphy.com/media/xuPJrZiruRQ1KRr9Ea/giphy.gif" width = 35px align="center" /></h2>
+<h2 align="left">A passionate front-end developer who wants to explore new technologies and to do new things about them. Cheers! 
+<!-- <img src = "https://media.giphy.com/media/xuPJrZiruRQ1KRr9Ea/giphy.gif" width = 30px align="center" /> -->
+</h2>
 
 <p align="left">
  <a href="https://www.turhansel.com/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-red?logo=dribbble&logoColor=white" style="vertical-align:center" /></a>
@@ -10,7 +12,9 @@
 <a href="https://www.linkedin.com/in/turhansel/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" /></a></a>
 </p>
 
-<h2 align='left'> Tech I Use <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 27px/> </h2>
+<h2 align='left'> Tech I Use
+ <!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 27px/>  -->
+</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
