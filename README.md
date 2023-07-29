@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/turhansel"><img src="https://github.com/turhansel/turhansel/blob/main/devcard.svg" width="400" align="right" alt="Turhan Sel's Dev Card"/></a>
+<a href="https://app.daily.dev/turhansel"><img src="https://github.com/turhansel/turhansel/blob/main/devcard.svg" width="300" align="right" alt="Turhan Sel's Dev Card"/></a>
 
 <h1 align="left">Hey, I'm Turhan 👾</h1>
 
