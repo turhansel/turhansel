@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/turhansel"><img src="https://github.com/turhansel/turhansel/blob/main/devcard.svg" width="400" align="right" alt="Turhan Sel's Dev Card"/></a>
+<a href="https://app.daily.dev/turhansel"><img src="https://github.com/turhansel/turhansel/blob/main/devcard.svg" width="300" align="right" alt="Turhan Sel's Dev Card"/></a>
 
 # Hey, I'm Turhan
 
@@ -18,14 +18,3 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=red)
 ![Cypress](https://img.shields.io/badge/Cypress-323330?style=for-the-badge&logo=Cypress&logoColor=white)
-
-<h3>My GitHub Stats :chart_with_upwards_trend:</h3>
-<p ><details>
-<summary>:bulb: Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=turhansel&theme=tokyonight"/>
-
-</details>
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turhansel&langs_count=10&theme=tokyonight&layout=compact" alt="turhansel :: Top Langs" />
-</details></p>
