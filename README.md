@@ -3,9 +3,9 @@
 <h1 align="left">Hey, I'm Turhan 👾</h1>
 
 <h2 align="left">Making lives easier through code</h2>
-[portfolio &nearr;](https://www.turhansel.com/){:target="_blank"}
-[twitter &nearr;](https://twitter.com/imturhansel){:target="_blank"}.
-[linkedin &nearr;](https://www.linkedin.com/in/turhansel/){:target="_blank"}.
+[portfolio &nearr;](https://www.turhansel.com/){:target="_blank"} <br />
+[twitter &nearr;](https://twitter.com/imturhansel){:target="_blank"} <br />
+[linkedin &nearr;](https://www.linkedin.com/in/turhansel/){:target="_blank"} <br />
 
 <h3>My GitHub Stats :chart_with_upwards_trend:</h3>
 <p ><details>
