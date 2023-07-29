@@ -3,9 +3,9 @@
 <h1 align="left">Hey, I'm Turhan 👾</h1>
 
 <h2 align="left">Making lives easier through code</h2>
- <a href="https://www.turhansel.com/" target="_blank">portfolio &nearr; </a>
- <a href="https://twitter.com/imturhansel" target="_blank">twitter &nearr; </a>
- <a href="https://www.linkedin.com/in/turhansel/" target="_blank">linkedin &nearr; </a>
+ <a href="https://www.turhansel.com/" target="_blank">portfolio &nearr; </a> <br/>
+ <a href="https://twitter.com/imturhansel" target="_blank">twitter &nearr; </a> <br/>
+ <a href="https://www.linkedin.com/in/turhansel/" target="_blank">linkedin &nearr; </a> <br/>
 
 <h3>My GitHub Stats :chart_with_upwards_trend:</h3>
 <p ><details>
