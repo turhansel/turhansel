@@ -9,7 +9,8 @@
  <a href="https://read.cv/turhan" target="_blank">resume &nearr;</a>
 
  <h2 align='left'> Tech I Use </h2>
- JavaScript, TypeScript, React, Next.js, Redux, Redux Toolkit, Redux-Saga, TailwindCSS, Styled Components, Jest, Cypress
+ [JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ TypeScript, React, Next.js, Redux, Redux Toolkit, Redux-Saga, TailwindCSS, Styled Components, Jest, Cypress
 
 <h3>My GitHub Stats :chart_with_upwards_trend:</h3>
 <p ><details>
