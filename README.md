@@ -8,6 +8,9 @@
  <a href="https://www.linkedin.com/in/turhansel/" target="_blank">linkedin &nearr;</a> <br/>
  <a href="https://read.cv/turhan" target="_blank">resume &nearr;</a>
 
+ <h2 align='left'> Tech I Use </h2>
+ JavaScript, TypeScript, React, Next.js, Redux, Redux Toolkit, Redux-Saga, TailwindCSS, Styled Components, Jest, Cypress
+
 <h3>My GitHub Stats :chart_with_upwards_trend:</h3>
 <p ><details>
 <summary>:bulb: Github Stats</summary>
