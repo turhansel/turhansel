@@ -3,10 +3,12 @@
 <h1 align="left">Hey, I'm Turhan 👾</h1>
 
 <h2 align="left">Making lives easier through code</h2>
+<p align="left">
  <a href="https://www.turhansel.com/" target="_blank">portfolio &nearr;</a> <br/>
  <a href="https://twitter.com/imturhansel" target="_blank">twitter &nearr;</a> <br/>
  <a href="https://www.linkedin.com/in/turhansel/" target="_blank">linkedin &nearr;</a> <br/>
  <a href="https://read.cv/turhan" target="_blank">resume &nearr;</a>
+</p>
 
  <h2 align='left'> Tech I Use </h2>
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
