@@ -4,7 +4,11 @@
 
 ## Making lives easier through code
 
-<a href="https://www.turhansel.com/" target="_blank">portfolio &nearr;</a> <a href="https://twitter.com/imturhansel" target="_blank">twitter &nearr;</a> <a href="https://www.linkedin.com/in/turhansel/" target="_blank">linkedin &nearr;</a> <a href="https://read.cv/turhan" target="_blank">resume &nearr;</a>
+[portfolio &nearr;](https://www.turhansel.com/)
+[twitter &nearr;](https://twitter.com/imturhansel)
+[linkedin &nearr;](https://www.linkedin.com/in/turhansel/)
+[resume &nearr;](https://read.cv/turhan)
+
 
 ## Tech I Use
 
