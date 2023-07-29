@@ -12,6 +12,11 @@
 
  <h2 align='left'> Tech I Use </h2>
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![TypeScript]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white))
+
+
+
+ 
  TypeScript, React, Next.js, Redux, Redux Toolkit, Redux-Saga, TailwindCSS, Styled Components, Jest, Cypress
 
 <h3>My GitHub Stats :chart_with_upwards_trend:</h3>
