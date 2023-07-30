@@ -2,7 +2,9 @@
 
 # Hey, I'm Turhan
 
-## Making lives easier through code
+I am working as a Frontend Engineer [@Getir](https://getir.com/)
+
+<i>Making lives easier through code</i>
 
 [portfolio &nearr;](https://www.turhansel.com/)
 [twitter &nearr;](https://twitter.com/imturhansel)
