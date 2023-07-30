@@ -4,15 +4,16 @@
 
 I am working as a Frontend Engineer [@Getir](https://getir.com/)
 
+
 <i>Making lives easier through code</i>
 
-<divider />
 
 [portfolio &nearr;](https://www.turhansel.com/)
 [twitter &nearr;](https://twitter.com/imturhansel)
 [linkedin &nearr;](https://www.linkedin.com/in/turhansel/)
 [resume &nearr;](https://read.cv/turhan)
 
+---
 
 ## Tech I Use
 
