@@ -8,10 +8,10 @@ I am working as a Frontend Engineer [@Getir](https://getir.com/)
 <i>Making lives easier through code</i>
 
 
-[portfolio &nearr;](https://www.turhansel.com/)
-[twitter &nearr;](https://twitter.com/imturhansel)
-[linkedin &nearr;](https://www.linkedin.com/in/turhansel/)
-[resume &nearr;](https://read.cv/turhan)
+[portfolio ↗](https://www.turhansel.com/)
+[twitter ↗](https://twitter.com/imturhansel)
+[linkedin ↗](https://www.linkedin.com/in/turhansel/)
+[resume ↗](https://read.cv/turhan)
 
 ---
 
