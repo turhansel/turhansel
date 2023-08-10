@@ -6,7 +6,6 @@ I am working as a Frontend Engineer [@Getir](https://getir.com/)
 
 
 <i>Making lives easier through code</i>
-<br />
 
 [portfolio ↗](https://www.turhansel.com/)
 [twitter ↗](https://twitter.com/imturhansel)
