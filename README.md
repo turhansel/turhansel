@@ -1,6 +1,6 @@
 <a href="https://app.daily.dev/turhansel"><img src="https://github.com/turhansel/turhansel/blob/main/devcard.svg" width="350" align="right" alt="Turhan Sel's Dev Card"/></a>
 
-# Hey, I'm Turhan
+# heyo, I'm turhan
 
 I am working as a Frontend Engineer [@Getir](https://getir.com/)
 
