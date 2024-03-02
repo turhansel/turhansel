@@ -8,7 +8,7 @@ I am working as a Frontend Engineer [@Getir](https://getir.com/)
 <i>Making lives easier through code</i>
 
 [portfolio ↗](https://www.turhansel.com/)
-[twitter ↗](https://twitter.com/imturhansel)
+[twitter ↗](https://twitter.com/turtilicioux)
 [linkedin ↗](https://www.linkedin.com/in/turhansel/)
 [resume ↗](https://read.cv/turhan)
 
