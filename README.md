@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/turhansel"><img src="https://github.com/turhansel/turhansel/blob/main/devcard.png" width="350" alt="Turhan Sel's Dev Card"/></a>
+<a href="https://app.daily.dev/turhansel"><img src="https://github.com/turhansel/turhansel/blob/main/devcard.png" width="356" align="right" alt="Turhan Sel's Dev Card"/></a>
 # heyo, I'm turhan
 
 I am working as a Frontend Engineer [@Getir](https://getir.com/)
