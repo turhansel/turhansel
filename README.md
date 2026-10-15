@@ -9,7 +9,6 @@ I am working as a sr. frontend engineer [@Mindsite](https://www.themindsite.com/
 [portfolio ↗](https://www.turhansel.com/)
 [twitter ↗](https://twitter.com/turtilicioux)
 [linkedin ↗](https://www.linkedin.com/in/turhansel/)
-[resume ↗](https://read.cv/turhan)
 
 ---
 
