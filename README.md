@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/turhansel"><img src="https://github.com/turhansel/turhansel/blob/main/devcard.png" width="356" align="right" alt="Turhan Sel's Dev Card"/></a>
 # heyo, I'm turhan
 
-I am working as a Frontend Engineer [@Getir](https://getir.com/)
+I am working as a sr. frontend engineer [@Mindsite]([https://getir.com/](https://www.themindsite.com/))
 
 
 <i>Making lives easier through code</i>
